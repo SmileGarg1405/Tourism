@@ -1,0 +1,19 @@
+body{
+background:url();
+background-size:cover;
+}
+.sign up{
+  border-radius: 5px;
+  background: purple;
+  padding: 20px;
+  width: 420px;
+  margin: auto;
+  color:#fff;
+  font-size: 16px;
+}
+.sign_up h1{
+text-align: center;
+margin: 0;
+padding: 0;
+
+}
