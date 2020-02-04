@@ -1,0 +1,155 @@
+<html>
+<head>
+<title>Goa</title>
+<link rel="stylesheet" type="text/css" href="Goa.css">
+<link href="https://fonts.googleapis.com/css?family=Berkshire+Swash|Great+Vibes|Indie+Flower|Lobster" rel="stylesheet">
+</head>
+<body style="background-image:url('pattern.jpg')">
+  <div class="navbar">
+  <a href="Front Page.html">Home</a>
+  <div class="dropdown">
+    <button class="dropbtn">North Indian
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="rajasthan.html">Rajasthan</a>
+      <a href="punjab.html">Punjab</a>
+      <a href="Himachal Pradesh.html">Himachal Pradesh</a>
+      <a href="uttarpradesh.html">Uttar Pradesh</a>
+      <a href="Haryana.html">Haryana</a>
+    </div>
+  </div>
+  <div class="dropdown">
+    <button class="dropbtn">South Indian
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="kerala.html">Kerala</a>
+      <a href="goa.html">Goa</a>
+      <a href="Tamil Nadu.html">Tamil Nadu</a>
+    </div>
+  </div>
+  <a href="sim (2).html">Log In</a>
+  <a href="Hotel Booking Form.html">Hotel Booking</a>
+  <a href="index.html">Feedback</a>
+</div>
+<br><br>
+<img class="cover" src="Goa Cover photo.jpg">
+<h4>Goa</h4>
+<p>
+  Goa is popularly known as the Pearl of the orient and tourist paradise. It is located in India's coastal belt on the western called the Konkan coast. It has an alarming scenic beauty. The architectural work done Goan Temples, Churches and old houses has brought great laurels to Goa. Some of these characteristics make Goa to be occupied by tourists. It is the most preferred option by the people who are planning their holidays.<br>
+
+  Goa as compared to other states is not greatly populated but compared in terms of tourists it is the most populated place in India. Apart from attracting tourists from all over India, it also attracts tourists of foreign background. During the months of November, December and January Goa is heavily crowded. The real essence of Goa lies in its rich history, unique culture and the original natural beauty. Peaceful Goan lifestyle and adventure sports also draw the attention of the travelers within and outside India. All kinds of tourists are expected to visit Goa.</p>
+<!-- <br>
+<img id="special" src="line.png">
+<br> -->
+<h3>Geography</h3>
+<div class="geo">
+  <img src="Goa Map.png" style="float:right;">
+  <p class="border">
+    Goa encompasses an area of 3,702 km2 (1,429 sq mi). It lies between the latitudes 14°53′54″ N and 15°40′00″ N and longitudes 73°40′33″ E and 74°20′13″ E.<br><br>
+
+    Goa is a part of the coastal country known as the Konkan, which is an escarpment rising up to the Western Ghats range of mountains, which separate it from the Deccan Plateau. The highest point is the Sonsogor, with an altitude of 1,167 metres (3,829 ft). Goa has a coastline of 101 km (63 mi).<br><br>
+
+    Goa's seven major rivers are the Zuari, Mandovi, Terekhol, Chapora, Galgibag, Kumbarjua canal, Talpona and the Sal. The Zuari and the Mandovi are the most important rivers, interspaced by the Kumbarjua canal, forming a major estuarine complex. These rivers are fed by the Southwest monsoon rain and their basin covers 69% of the state's geographical area. These rivers are some of the busiest in India. Goa has more than 40 estuarine, eight marine, and about 90 riverine islands. The total navigable length of Goa's rivers is 253 km (157 mi). Goa has more than 300 ancient water-tanks built during the rule of the Kadamba dynasty and over 100 medicinal springs.<br><br>
+
+    The Mormugao harbour on the mouth of the River Zuari is one of the best natural harbours in South Asia.<br><br>
+
+    Most of Goa's soil cover is made up of laterites rich in ferric-aluminium oxides and reddish in colour. Further inland and along the riverbanks, the soil is mostly alluvial and loamy. The soil is rich in minerals and humus, thus conducive to agriculture. Some of the oldest rocks in the Indian subcontinent are found in Goa between Molem and Anmod on Goa's border with Karnataka. The rocks are classified as Trondjemeitic Gneiss estimated to be 3,600 million years old, dated by rubidium isotope dating. A specimen of the rock is exhibited at Goa University.<br><br>
+  </p>
+</div>
+<h4>Famous Places To Visit</h4>
+<br>
+<h2>01. Panaji</h2>
+<div class="content">
+<div class="lower">
+  <img src="Panaji.jpg" style="float:left;"alt="">
+  <div class="upper">
+    <p>The Top Destination in <b>Panaji</b> </p>
+    <ul>
+      <li>Old Goa</li>
+      <li>Reis Magos Fort</li>
+      <li>Fort Aguada</li>
+      <li>18th June Road</li>
+      <li>Goa Archaeological Museum</li>
+      <li>Goa State Museum</li>
+      <li>Jama Masjid</li>
+    </ul>
+  </div>
+</div>
+<p>Located on the banks of Mandovi river, <b>Panaji</b>, the capital of Goa, is a picturesque land with spectacular views to offer. The historical significance and serenity add magic to the air. Influences of Portuguese are still evident. Goa Medical College in Panaji, which was built by Portuguese, is the first ever medical school in India and it also ranks amongst the oldest medical colleges in the whole of Asia.</p>
+</div>
+<br>
+<h2>02. Vasco Da Gama</h2>
+<br>
+<div class="content">
+<div class="lower">
+  <img src="vasco da gama goa.jpg" style="float:left;"alt="">
+  <div class="upper" style="background: rgba(38, 168, 255, 0.71)">
+<p>The Top Destination in <b>Vasco Da Gama</b> <br></p>
+    <ul>
+      <li>Bagmalo Beach</li>
+      <li>Velsao Beach</li>
+      <li>Mormugao Port</li>
+      <li>Pilot Point</li>
+      <li>Goa Kayaking-Day Tour</li>
+      <li>Japanese Garden</li>
+      <li>Zuari River</li>
+      <li>Naval Aviation Museum</li>
+    </ul>
+  </div>
+</div>
+<p>Founded in 1543 by Portuguese, <b>Vasco Da Gama</b> has evolved into an important industrial center in Goa. This largest city in Goa is named after Vasco Da Gama, the famous Portuguese explorer. To have an insight in to the culture and lifestyle of Goa, you need to visit this city.</p>
+</div>
+<br>
+<h2>03. Mapusa</h2>
+<br>
+<div class="content">
+<div class="lower">
+  <img src="mapusa.jpg" style="float:left;"alt="">
+  <div class="upper" style="background: rgba(221, 108, 22, 0.71)">
+<p>The Top Destination in <b>Mapusa</b></p>
+    <ul>
+      <li>Kalacha Beach</li>
+      <li>Mascarenhas Mansion</li>
+      <li>Arpor</li>
+      <li>Aldona</li>
+      <li>Chapora Fort</li>
+      <li>Sri Kalika Temple</li>
+      <li>Mapusa Friday Bazaar</li>
+      <li>Basilica of Bom Jesus</li>
+    </ul>
+  </div>
+</div>
+<p>If the beaches attracted you here, you would love <b>Mapusa</b>, which is closer to the most popular beaches in Goa. The weekly market in Mapusa set up every Friday is famous as you can find a wide range of products sold here.</p>
+</div>
+<br>
+<h2>04. Margoa</h2>
+<br>
+<div class="content">
+<div class="lower">
+  <img src="Margao.jpg" style="float:left;"alt="">
+  <div class="upper" style="background: rgba(255, 129, 33, 0.71)">
+  <p>These are the top tourist attraction in <b>Margao</b></p>
+    <ul>
+      <li>Canopy Goa</li>
+      <li>Colva Beach</li>
+      <li>Loutolim</li>
+      <li>Caves of Aquem</li>
+      <li>Velsao Beach</li>
+      <li>Town Square</li>
+      <li>Monte Hill</li>
+      <li>Jorge Barreto Park</li>
+      <li>Colonial Style Villas</li>
+    </ul>
+  </div>
+</div>
+<p><b>Margao</b> – the oldest city in Goa is also the second largest city in the land. It is also the commercial center in Goa. It was earlier known as Madgaon before the Portuguese colonization. This is an important religious center in Goa with many places of worship.</p>
+</div>
+<center><h3>Season To Visit</h3></center>
+<div >
+<p>Wake up to perfect sunsets on the stunning beaches and majestic landscapes of Goa. Thanks to goa weather being at its salubrious best throughout the year, it is a major holiday spot for travelers from all over the world. Being a tourist hotspot, Goa can be visited at any time of the year but the best time to visit Goa is from mid-November through mid-February. The weather is pleasant and cool and most of the beach parties and festivals like Sunburn take place during this time, making it the best season to visit goa. Goa weather in June is also pretty pleasant, making it a good time to visit. The monsoon season is also a good time to visit Goa as the lush green countrysides look even more lively and colorful during the rains. Although there is no official off season in Goa, the tourist inflow does lessen during the monsoons, since sightseeing and beach visits become nearly imporssible during this time. The Monsoon in Goa makes the state even greener than it already is, and for some people spending the rainy season in Goa is a major attraction.
+</p>
+</div>
+</body>
+</html>
