@@ -1,0 +1,85 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="Front Page.css">
+<link href="https://fonts.googleapis.com/css?family=Berkshire+Swash|Great+Vibes|Indie+Flower|Lobster" rel="stylesheet">
+<title>Welcome to the Indian Tourism</title>
+<style>
+p.left{
+	border-left-style:solid;
+	border-left-color:#fff077;
+	border-left-width:10px;
+}
+p.right{
+	border-right-style:solid;
+	border-right-color:#fff077;
+	border-right-width:10px;
+}
+</style>
+</head>
+<body>
+	<div class="navbar">
+  <a href="Front Page.html">Home</a>
+  <div class="dropdown">
+    <button class="dropbtn">North Indian
+    </button>
+    <div class="dropdown-content">
+      <a href="rajasthan.html">Rajasthan</a>
+      <a href="punjab.html">Punjab</a>
+      <a href="Himachal Pradesh.html">Himachal Pradesh</a>
+			<a href="uttarpradesh.html">Uttar Pradesh</a>
+      <a href="Haryana.html">Haryana</a>
+    </div>
+  </div>
+	<div class="dropdown">
+    <button class="dropbtn">South Indian
+    </button>
+    <div class="dropdown-content">
+      <a href="kerala.html">Kerala</a>
+      <a href="goa.html">Goa</a>
+			<a href="Tamil Nadu.html">Tamil Nadu</a>
+    </div>
+  </div>
+	<a href="sim (2).html">Log In</a>
+	<a href="Hotel Booking Form.html">Hotel Booking</a>
+	<a href="index.html">Feedback</a>
+
+</div>
+<br><br><br>
+<marquee><img src="Early-History-of-Uttar-Pradesh1.jpg" style="width:400px;height:200px"> <img src="Dharamshala.jpg" style="width:400px;height:200px"> <img src="goa.jpg" style="width:400px;height:200px"> <img src="a.png" style="width:400px;height:200px"> <img src="b.png" style="width:400px;height:200px"> <img src="c.png" style="width:400px;height:200px"> <img src="Faridabad.png" style="width:400px;height:200px"> <img src="-72517_8194.jpg" style="width:400px;height:200px"> <img src="Amritsar.png" style="width:400px;height:200px"> <img src="Chandigarh.png" style="width:400px;height:200px"> <img src="Goa Cover photo.jpg" style="width:400px;height:200px"> <img src="d.png" style="width:400px;height:200px"> <img src="gorakhnath-temple.jpg" style="width:400px;height:200px"> <img src="Gurgaon.png" style="width:400px;height:200px"> <img src="Haryana Cover Pic.png" style="width:400px;height:200px"> <img src="Hawa Mahal.jpg" style="width:400px;height:200px"> <img src="Himachal Pradesh Cover Photo.jpg" style="width:400px;height:200px"> <img src="jaipur.jpg" style="width:400px;height:200px"> <img src="Jalandhar.png" style="width:400px;height:200px"> <img src="jodhpur.jpg" style="width:400px;height:200px"> <img src="Kanyakumari.png" style="width:400px;height:200px"> <img src="Kurukshetra.png" style="width:400px;height:200px"> <img src="Madurai.png" style="width:400px;height:200px"> <img src="Mahabalipuram.png" style="width:400px;height:200px"> <img src="Panipat.png" style="width:400px;height:200px"></marquee>
+<br><br>
+
+	<img src="cover photo.jpg" style="width:1500px;height:550px;float:left;">
+	<h3><a href="kerala.html">Kerala</a></h3>
+	<img id="special" src="kerala.jpg" style="float:left;width:640px;height:360px">
+	<p class="right" style="text-align:right;"><img src="noun_89663.png" style="width:20px;height:20px;">Referred to as God's own country, Kerala is one of the prettiest states and seemingly has it all. It is home to <br>some of the most stunning beaches including Kovalam, Muzhappilangad, Varakala, and many more. It also<br>boasts breathtaking hill stations, gripping waterfalls, historical places, two national parks and 12 beautiful<br>wildlife sanctuaries. For those in search of a serene hill station, Munnar is always a good option. In any<br>case, the very peaceful atmosphere of Kerala, strongly encouraging responsible travel and eco-tourism, will<br>not cease to impress.<img src="noun_89670.png" style="width:20px;height:20px;"></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+	<h3><a href="rajasthan.html">Rajasthan</a></h3>
+	<img id="special1" src="Rajasthan.jpg" style="float:right;width:640px;height:360px">
+	<p class="left" style="text-align:left;"><img src="noun_89663.png" style="width:20px;height:20px;">Known as the land of kings, Rajasthan is a stunning state full of stories of wars and victories, romance, misfortunes<br>and glories. What's more, these folkloric tales of love and heroism are not only part of the local people's collective<br>memory, they are also physically reflected in Rajasthan's many monuments, magnificent palaces and forts.<br>This magic state is thus rich in traditions and culture, but is also home to stunning desert safaris, sand-dunes, breath<br>taking wildlife and forests. Must-see destinations include Jaipur, Udaipur, and Jodhpur among many others.<img src="noun_89670.png" style="width:20px;height:20px;"></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+	<a href="Goa.html"><h3>Goa</h3></a>
+	<img id="special" src="Goa.jpg" style="float:left;width:640px;height:360px">
+	<p class="right" style="text-align:right;"><img src="noun_89663.png" style="width:20px;height:20px;">Increasingly known around the world for its beautiful beaches, Goa is a destination not to be missed<br>when visiting India. Sunsets at the golden sand beaches are simply breathtaking, and the local cuisine,<br>which includes many seafood dishes, is mouthwatering. Goa also offers travelers the opportunity to<br>engage in many water sports, such as wind surfing and water skiing. This is one of Indias smallest<br>states, but one with an old town, and a very unique ethnicity and culture. While wandering across<br>Goa, you will come across Hindu temples, Portuguese churches, and stunning wildlife sanctuaries.<img src="noun_89670.png" style="width:20px;height:20px;"></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+	<a href="punjab.html"><h3>Punjab</h3></a>
+	<img id="special1" src="Punjab.jpg" style="float:right;width:640px;height:360px">
+	<p class="left" style="text-align:left;"><img src="noun_89663.png" style="width:20px;height:20px;">Punjab is by far one of the most beautiful states to visit in India with its iconic Golden Temple located in Amritsar.<br>Known for its delicious cuisine, ethnic and religious diversity, and history especially its Sikh religious history <br>Punjab makes the perfect destination for those looking for local culture and stories of ancient empires.<br>Heading to the villages is a must to experience true Punjab culture. Travellers should also aim to attend<br>the flag lowering ceremony which takes place at Wagah Border.<img src="noun_89670.png" style="width:20px;height:20px;"></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+	<a href="Himachal Pradesh.html"><h3>Himachal Pradesh</h3>
+	<img id="special" src="Himachal Pradesh.jpg" style="float:left;width:640px;height:360px">
+	<p class="right" style="text-align:right;"><img src="noun_89663.png" style="width:20px;height:20px;">Himachal Pradesh, the Land of the Gods, is famous for its stunning Himalayan natural landscapes and breathtaking hill stations. Dharamsala, Manali, and Kullu are some of the most visited destinations in this hilly state, offering pristine natural beauty. The snow capped Himalayan peaks and the stunning lakes are mesmerizing. In this state, travellers can engage in a number of outdoor activities which include paragliding, rock climbing, mountain biking, heli-skiing and much more.<img src="noun_89670.png" style="width:20px;height:20px;"></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+	<a href="uttarpradesh.html"><h3>Uttar Pradesh</h3>
+	<img id="special1" src="Uttar Pradesh.jpg" style="float:right;width:640px;height:360px">
+	<p class="left" style="text-align:left;"><img src="noun_89663.png" style="width:20px;height:20px;">What is India's architectural answer to love? The stunning Taj Mahal located in Agra of course. What about spirituality and salvation? Located along the river of the Ganges, the answer lies in Varanasi, India's oldest city. As such, Uttar Pradesh is one of the prettiest states, home to major historical, religious and architectural Indian destinations. In addition to the Taj Mahal and Varanasi, one of the most important pilgrimage places, namely Ayodhya, together with one of India's holiest cities, Allahabad, are also located within the beautiful state of Uttar Pradesh.<img src="noun_89670.png" style="width:20px;height:20px;"></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+	<a href="Haryana.html"><h3>Haryana</h3>
+	<img id="special1" src="Haryana.png" style="float:right;width:640px;height:360px">
+	<p class="left" style="text-align:left;"><img src="noun_89663.png" style="width:20px;height:20px;">Whether you are a believer in God or non-believer, <b>‘The Abode of God’</b>, as <b>Haryana</b> is famously referred to, might make you think if there is a god, he might probably be here. The land is so ancient, which can be gauged by the fact that this was the place where Veda Vyasa, the saint, wrote the famous epic Mahabharata. The place gains more importance for those following religious faith as being the land where Lord Krishna is said to have uttered the famous saying, “Do your duty and be detached from results” to Arjuna, one of the Pandava brothers on the eve of Mahabharata war.<img src="noun_89670.png" style="width:20px;height:20px;"></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+	<a href="Tamil Nadu.html"><h3>Tamil Nadu</h3>
+	<img id="special" src="Tamil Nadu.png" style="float:left;width:640px;height:360px">
+	<p class="right" style="text-align:right;"><img src="noun_89663.png" style="width:20px;height:20px;"> The words <b>Tamil Nadu</b> literally means <b>‘The Land of The Tamils or Tamil Country’</b>. The State of Tamil Nadu is the 11th largest State out of the 29 states of India. But what Tamil Nadu lacks in size, it gains in its abundance of natural resources. The western, north-western and the southern parts are abundant in vegetation since they’re the meeting points of the Western and Eastern Ghats with the Nilgiris Hills. This makes the state an ecological niche which gives the State of Tamil Nadu abundance in flora and fauna. Tamil Nadu has also been home to the oldest of civilizations, and has seen the rule of various ancient dynasties like the Chera, Chola and Pandya which ruled the region between 300 BC – 300 AD. The state of Tamil Nadu is thus rich in both the aspects of Cultural and Natural making it a tourist haven. In this article we shall discuss about the 10 popular <b>places you must Visit in Tamil Nadu</b>.<img src="noun_89670.png" style="width:20px;height:20px;"></p><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+</body>
+</html>
