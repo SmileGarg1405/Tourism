@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Rajasthan</title>
+<link rel="stylesheet" type="text/css" href="rajasthan.css">
+<link href="https://fonts.googleapis.com/css?family=Berkshire+Swash|Great+Vibes|Indie+Flower|Lobster" rel="stylesheet">
+</head>
+<body style="background-image:url('pattern.jpg')">
+  <div class="navbar">
+  <a href="Front Page.html">Home</a>
+  <div class="dropdown">
+    <button class="dropbtn">North Indian
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="rajasthan.html">Rajasthan</a>
+      <a href="punjab.html">Punjab</a>
+      <a href="himachal pradesh.html">Himachal Pradesh</a>
+			<a href="uttarpradesh.html">Uttar Pradesh</a>
+      <a href="Haryana.html">Haryana</a>
+    </div>
+  </div>
+	<div class="dropdown">
+    <button class="dropbtn">South Indian
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="kerala.html">Kerala</a>
+      <a href="goa.html">Goa</a>
+      <a href="Tamil Nadu.html">Tamil Nadu</a>
+    </div>
+  </div>
+  <a href="sim (2).html">Log In</a>
+  <a href="Hotel Booking Form.html">Hotel Booking</a>
+  <a href="index.html">Feedback</a>
+</div>
+<br><br>
+<img class="image" src="Hawa Mahal.jpg">
+<h4>Rajasthan</h4>
+<p>
+  Rajasthan ("Land of Kings") is India's largest state by area (342,239 square kilometres (132,139 sq mi) or 10.4% of India's total area). It is located on the north western side of the India, where it comprises most of the wide and inhospitable Thar Desert (also known as the "Rajasthan Desert" and "Great Indian Desert") and shares a border with the Pakistani provinces of Punjab to the northwest and Sindh to the west, along the Sutlej-Indus river valley. Elsewhere it is bordered by five other Indian states: Punjab to the north; Haryana and Uttar Pradesh to the northeast; Madhya Pradesh to the southeast; and Gujarat to the southwest.</p>
+<!-- <br>
+<img id="special" src="line.png">
+<br> -->
+<h3>Geography</h3>
+<div class="geo">
+  <img class="map" src="map of rajasthan.jpg" style="float:right;">
+  <p class="border">
+    The geographic features of Rajasthan are the Thar Desert and the Aravalli Range, which runs through the state from southwest to northeast, almost from one end to the other, for more than 850 kilometres (530 mi). Mount Abu lies at the southwestern end of the range, separated from the main ranges by the West Banas River, although a series of broken ridges continues into Haryana in the direction of Delhi where it can be seen as outcrops in the form of the Raisina Hill and the ridges farther north. About three-fifths of Rajasthan lies northwest of the Aravallis, leaving two-fifths on the east and south direction.
+  </p>
+</div>
+<h4>Famous Places To Visit</h4>
+<br>
+<h2>01. Jaipur</h2>
+<div class="content">
+<div class="lower">
+  <img src="jaipur.jpg" style="float:left;"alt="">
+  <div class="upper">
+    <ul>
+      <li><b>Famous for:</b> Heritage, Forts, Shopping, Cuisine.</li><br>
+      <li><b>Major Attractions:</b> City Palace, Amer Fort, Pink City Bazaars.</li><br>
+      <li><b>Nearby Places:</b> Ajmer, Sawai Madhopur, Pushkar.</li><br>
+      <li><b>Ideal Visit Time:</b> 2 days or more.</li>
+    </ul>
+  </div>
+</div>
+<p>Located on the banks of Mandovi river, <b>Panaji</b>, the capital of Goa, is a picturesque land with spectacular views to offer. The historical significance and serenity add magic to the air. Influences of Portuguese are still evident. Goa Medical College in Panaji, which was built by Portuguese, is the first ever medical school in India and it also ranks amongst the oldest medical colleges in the whole of Asia.</p>
+</div>
+<br>
+<h2>02. Udaipur</h2>
+<br>
+<div class="content">
+<div class="lower">
+  <img src="udaipur.jpg" style="float:left;"alt="">
+  <div class="upper" style="background: rgba(38, 168, 255, 0.71)">
+    <ul>
+      <li><b>Famous for:</b> Heritage, Forts, Lakes, Weddings.</li><br>
+      <li><b>Major Attractions:</b> City Palace, Lake Pichola, Lake Palace.</li><br>
+      <li><b>Nearby Places:</b> Nathdwara, Kumbhalgarh, Mount Abu.</li><br>
+      <li><b>Ideal Visit Time:</b> 2 days.</li>
+    </ul>
+  </div>
+</div>
+<p>While in a few texts, it has been termed as the <i><b>Venice of the East</b></i>, the City of Udaipur is known by its common moniker, the city of lakes. The city was the capital of the Sisodiya Rajputs of Mewar and is famous for its palaces that exemplify the finesse of Rajputana Style architecture. Udaipur was founded in 1553 by the Sisodiya Rajput Ruler Maharana Udai Singh II. The Mewar Rajputs founded the city to relocate their capital from Chittor to a more secure location. Today, most of the palaces have been converted into hotels, thus attracting a huge no. of tourist crowd to this city.<br><br>
+The city’s picturesque location at the foothills of the Aravalli Mountains, the state of Udaipur is a unique destination. Apart from its various palaces, forts, market places, and various temples are also the reason for its popularity. The cities are well planned and the people hospitable, the place is not only famous for its palaces and monuments, the city of Udaipur has a lot to offer its visitors.</p>
+</div>
+<br>
+<h2>03. Jodhpur</h2>
+<br>
+<div class="content">
+<div class="lower">
+  <img src="jodhpur.jpg" style="float:left;"alt="">
+  <div class="upper" style="background: rgba(221, 108, 22, 0.71)">
+    <ul>
+      <li><b>Famous for:</b> Heritage, Forts, Cuisine.</li><br>
+      <li><b>Major Attractions:</b>  Mehrangarh Fort, Umaid Bhawan.</li><br>
+      <li><b>Nearby Places:</b> Osian, Phalodi, Ranakpur.</li><br>
+      <li><b>Ideal Visit Time:</b> 1 days.</li>
+    </ul>
+  </div>
+</div>
+<p>The second largest City of Rajasthan, <b>Jodhpur</b> is also the second most populated city of Rajasthan after Jaipur. The city was founded in 1459 by the Rathore Rajput Ruler, Rao Jodha Singh of Marwar. The city was founded as Marwar’s new capital after the fall of the former capital of Mandore. Jodhpur is also called the <i><b>Sun City</b></i> as it enjoys a bright sunny weather all year round. Strategically, it is considered to be the most important city of western Rajasthan as it lies only at a distance of 250 kilometers from the Indo-Pakistan border.<br><br>
+Also, because it lies in the center of Rajasthan, Jodhpur is an important tourist destination as well. Jodhpur has been listed many a times in various tourism magazines and documentaries and has topped the lonely planet’s list of most extraordinary place to stay in 2014. The various hill forts, palaces and the old walled city are just a handful of attractions from the multitude that this wonderful city has to offer.</p>
+</div>
+<br>
+<h2>04. Mount Abu</h2>
+<br>
+<div class="content">
+<div class="lower">
+  <img src="mount abu.jpg" style="float:left;"alt="">
+  <div class="upper" style="background: rgba(255, 129, 33, 0.71)">
+    <ul>
+      <li><b>Famous for:</b> Hill station, Nature, Jain Temples.</li><br>
+      <li><b>Major Attractions:</b> Hill station, Nature, Jain Temples.</li><br>
+      <li><b>Nearby Places:</b> Udaipur, Sirohi.</li><br>
+      <li><b>Ideal Visit Time:</b> 1-2 days.</li>
+    </ul>
+  </div>
+</div>
+<p>The place takes pride of it being the only hill station in the desert state of Rajasthan. <i><b>Mount Abu</b></i> is situated in the Aravalli mountain range and is a part of the Sirohi District of Rajasthan. The place apart from being a retreat for the people of Rajasthan and Gujarat from the scorching sun but has a lot of historical and religious significance. Mount Abu was known as the Arbuda Mountain, which has been mentioned in the Hindu Epic Mahabharata and is known to be the place where the Great Sage Vasistha retired. The hill station houses many ancient sites and temples which are frequented by many pilgrims from across India along with many forts and lakes.<br><br>
+The place is a heavenly retreat for the sun scorched people of Rajasthan, with its lush green surroundings and various picnic spots.</p>
+</div>
+<center><h3>Season To Visit</h3></center>
+<div >
+<p>Planning a trip to Rajasthan during monsoon that is from July to September will not be a bad idea. During this period, the state observes many fairs and festivals and gives you the opportunity to enjoy to the fullest.Traveling to Rajasthan in summers is not recommended as it could be an uncomfortable trip for those hailing from cold countries and states. The temperature in Rajasthan varies from 45°C to 48°C during summer. May and June are considered as the hottest months of Rajasthan. During summer, the days remain extremely hot but the nights remain chilled.</p>
+</div>
+
+</body>
+</html>
