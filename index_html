@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Feedback Form</title>
+<link rel="stylesheet"type="text/css"href="style1.css">
+</head>
+<body>
+<div class="feedback-title">
+<h1>Give your feedback!</h1>
+</div>
+<div class="feedback-form">
+  <form id="feedback-form" method="post" action="">
+    <input name="name"type="text"class="form-feedback"placeholder="Name" required><br>
+    <input name="email"type="email"class="form-feedback"placeholder="Email" required><br>
+    <textarea name="message" class="form-feedback" placeholder=" Add Comment" rows="5" required></textarea><br>
+    <input type="submit" class="form-feedback submit" value="SEND COMMENT">
+  </form>
+
+
+</body>
+</html>
