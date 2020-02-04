@@ -1,0 +1,55 @@
+<style>
+#warning
+    {
+        display: none;
+    }
+    input
+    {
+        width: 100%;
+        text-align: center;
+    }
+</style>
+<html>
+<head>
+<title>Login Form Design</title>
+<link rel="stylesheet"href="sim.css">
+<body>
+      <div class="loginbox">
+      <img src="images.png" class="images">
+      <h1> Login Here</h1>
+      <form name="simform">
+<p>Username</p>
+<input type="text" id="email" placeholder="Enter Username"><br><br>
+<p>Password</p><br>
+<input type="password" name="" id="password" placeholder="Enter Password"><br><b><div id="warning" style="font-family: monospace;font-size: 20px;color: red">password must be 6 digit</div></b><br>
+<input type="submit" id="login"name=""value="Login"><br>
+<a href="#">Forget password?</a><br>
+<a href="signup (3).html">Don't have an account?</a>
+</form>
+</div>
+    <script>
+    var form=document.forms.simform;
+    var login=document.getElementById("login");
+
+       login.onclick=function(){
+              if(form.email.value=="")
+                  {
+                    document.getElementById("email").setAttribute("placeholder","*EMAIL IS MANDATORY");
+                      return false;
+                  }
+           else if(form.password.value=="")
+               {
+                document.getElementById("password").setAttribute("placeholder","*PASSWORD IS MAINDATORY");
+                   return false;
+               }
+           else if(form.password.value.length!="6")
+           {document.getElementById("warning").style.display="block";
+                   return false;}
+           else window.open("Hotel Booking Form.html");
+       };
+
+
+    </script>
+</body>
+</head>
+</html>
