@@ -1,0 +1,121 @@
+<html>
+<head>
+<title>Kerala</title>
+<link rel="stylesheet" type="text/css" href="kerala.css">
+<link href="https://fonts.googleapis.com/css?family=Berkshire+Swash|Great+Vibes|Indie+Flower|Lobster" rel="stylesheet">
+</head>
+<body style="background-image:url('pattern.jpg')">
+  <div class="navbar">
+  <a href="Front Page.html">Home</a>
+  <div class="dropdown">
+    <button class="dropbtn">North Indian
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="rajasthan.html">Rajasthan</a>
+      <a href="punjab.html">Punjab</a>
+      <a href="Himachal Pradesh.html">Himachal Pradesh</a>
+      <a href="uttarpradesh.html">Uttar Pradesh</a>
+      <a href="Haryana.html">Haryana</a>
+    </div>
+  </div>
+  <div class="dropdown">
+    <button class="dropbtn">South Indian
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="kerala.html">Kerala</a>
+      <a href="goa.html">Goa</a>
+      <a href="Tamil Nadu.html">Tamil Nadu</a>
+    </div>
+  </div>
+  <a href="sim (2).html">Log In</a>
+  <a href="Hotel Booking Form.html">Hotel Booking</a>
+  <a href="index.html">Feedback</a>
+</div>
+<br><br>
+<img class="cover" src="keralahouseboat.jpg">
+<h4>Kerala</h4>
+<p>
+Kerala, a state situated on the tropical Malabar Coast of southwestern India, is one of the most popular tourist destinations in the country. Named as one of the <em>ten paradises of the world</em> by <em>National Geographic Traveler</em>, Kerala is famous especially for its <strong>ecotourism</strong> initiatives and beautiful backwaters. Its unique <strong>culture and traditions</strong>, coupled with its varied demography, have made Kerala one of the most popular tourist destinations in the world. Growing at a rate of 13.31%, the tourism industry is a major contributor to the state's economy.
+</p>
+<h3>Geography</h3>
+<img class="img" src="map.png" style="float:right;">
+<p class="border">
+Kerala (38,863 km²; 1.18% of <b>India’s</b> landmass) is situated between the <b>Arabian Sea</b> to the west and the <b>Western Ghats</b> to the east. Kerala’s coast runs some 580 km in length, while the state itself varies between 35–120 km in width. Geographically, Kerala roughly divides into three climatically distinct regions. These include the eastern highlands (rugged and cool mountainous terrain), the central midlands (rolling hills), and the western lowlands (coastal plains). Located at the extreme southern tip of the <b>Indian subcontinent</b>, Kerala lies near the center of the <b>Indian tectonic plate</b> (the Indian Plate); as such most of the state (notwithstanding isolated regions) is subject to comparatively little <b>seismic</b> or <b>volcanic activity</b>.
+</p>
+<h4>Famous Places To Visit</h4>
+<br>
+<h2>01. Munnar</h2>
+<div class="content">
+<div class="lower">
+  <img src="munnar.jpg" style="float:left;"alt="">
+  <div class="upper">
+    <ul>
+      <li><b>Famous for:</b> Hill station, Landscape, Tea Estates, Flora, Fauna</li><br>
+      <li><b>Major Attractions:</b> Eravikulam National Park, Tea Estates and Anamudi.</li><br>
+      <li><b>Nearby Places:</b> Chalakudy, Thekkady.</li><br>
+      <li><b>Ideal Visit Time:</b> 2-3 days.</li>
+    </ul>
+  </div>
+</div>
+<p>Get ready to be lost in the chanceless beauty of the place where three rivers meet, namely Kundalay, Mudrapuzha and Nallathanni. Situated at 1524-metre altitude on the Western Ghats, the tourist places in Munnar makes you wonder if it is the birthplace of beauty. The lush green landscape, waterfalls, lakes, forests and tea plantations make this place a heaven on earth. The place offers spectacular view of misty valleys and lakes. You might never have believed that watching tea plantations continuously might be so absorbing and interesting. You can have your share of adventure here as you can go paragliding, trekking and rock climbing.</p>
+</div>
+<br>
+<h2>02. Kumarakom</h2>
+<br>
+<div class="content">
+<div class="lower">
+  <img src="kumarakom-backwaters1.jpg" style="float:left;"alt="">
+  <div class="upper" style="background: rgba(254, 241, 186, 0.71)">
+    <ul>
+      <li><b>Famous for:</b> Backwaters, Nature, Houseboats.</li><br>
+      <li><b>Major Attractions:</b> Vembanad Lake.</li><br>
+      <li><b>Nearby Places:</b> Alleppey, Thekkady.</li><br>
+      <li><b>Ideal Visit Time:</b> 2 days.</li>
+    </ul>
+  </div>
+</div>
+<p>Kumarakom is located near Kottayam. It is one of the famous attractions of Kerala. It is bird watchers’ paradise owing to the <b>14-acre bird sanctuary</b>, a favorite ground for migratory birds. Kumarakom is also a spectacular backwater destination and hence you can go on a boating ride here. As <b>Ayurvedic massage</b> is done here, the place is a favorite for everyone who seeks to relax body and mind. The <b>Vembanad Lake</b> in Kumarakom is a favorite tourist spot. It is the largest lake in Kerala and the longest lake in India. It is a great place to spend a relaxed day watching sunrise or sunset depending on the time of cruise.</p>
+</div>
+<br>
+<h2>03. Thekkady</h2>
+<br>
+<div class="content">
+<div class="lower">
+  <img src="thekkady.jpg" style="float:left;"alt="">
+  <div class="upper" style="background: rgba(142, 126, 68, 0.71)">
+    <ul>
+      <li><b>Famous for:</b> Backwaters, Wildlife, Elephant rides.</li><br>
+      <li><b>Major Attractions:</b> Periyar National Park.</li><br>
+      <li><b>Nearby Places:</b> Alleppey, Kumarakom.</li><br>
+      <li><b>Ideal Visit Time:</b> 1-2 days.</li>
+    </ul>
+  </div>
+</div>
+<p><b>Thekkady</b> offers a great chance to view wildlife while on a cruise. You can find various wildlife species here including elephants, tigers, deer, bisons and many more. Elephant rides are available here to take you inside the forest. <b>Plantations</b> and <b>hill stations</b> offer a picturesque setting to the place. You can go on a trek here. Some of the most important tourist attractions in Thekkady are Periyar River, Murikkady and Chellarkovil.</p>
+</div>
+<br>
+<h2>04. Varkala Beach</h2>
+<br>
+<div class="content">
+<div class="lower">
+  <img src="Varkala Beach.jpg" style="float:left;"alt="">
+  <div class="upper" style="background: rgba(111, 181, 242, 0.71)">
+    <ul>
+      <li><b>Famous for:</b> Beaches, Cliffs, Landscape.</li><br>
+      <li><b>Major Attractions:</b> Varkala beach and cliffs.</li><br>
+      <li><b>Nearby Places:</b> Thiruvananthapuram, Kovalam, Paravur.</li><br>
+      <li><b>Ideal Visit Time:</b> 2 days.</li>
+    </ul>
+  </div>
+</div>
+<p>Varkala is famous for Ayurvedic massage and the place itself is in a wonderful setting. The beach and the mountain make the place attractive. You would not want to miss the sight of sunset here. The beach is clean and offers a great relaxation. You could stretch and let your eyes feast on the tranquil atmosphere or go for <b>swimming</b> and enjoy a great physical exercise. One of the most important aspects about the beach is that it is<b> less crowded</b> and hence you can have your space without being disturbed. Let the beauty of the beach and the atmosphere sinks in as you spend a quiet evening here.</p>
+</div>
+<center><h3>Season To Visit</h3></center>
+<div >
+<p>Though Kerala is a year-round destination, the best season to visit Kerala depends on which place in Kerala you're visiting. While some places are most enjoyable during the monsoons, others are best visited during the winter season. Overall, the best time to visit Kerala is during September to March, when the weather is pleasant, making it easy for tourists to explore the myriad facets of the state - the hill stations, beaches and backwaters.
+ The best time to visit backwaters in Kerala is the winter season, which is from November through February. It is when the weather in Kerala is pleasant for local sightseeing and boat excursions in the backwaters. Being the peak tourist season, winter is also the best time to visit Kerala with family for a memorable holiday. On the other hand, the hill stations in Kerala like Munnar receive thousands of visitors in the summer season, from April to June. It is not advisable to visit Kerala in monsoon season. </p>
+</div>
+</body>
+</html>
