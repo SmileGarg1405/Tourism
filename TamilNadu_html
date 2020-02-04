@@ -1,0 +1,141 @@
+<html>
+<head>
+<title>Tamil Nadu</title>
+<link rel="stylesheet" type="text/css" href="Tamil Nadu.css">
+<link href="https://fonts.googleapis.com/css?family=Berkshire+Swash|Great+Vibes|Indie+Flower|Lobster" rel="stylesheet">
+</head>
+<body style="background-image:url('pattern.jpg')">
+  <div class="navbar">
+  <a href="Front Page.html">Home</a>
+  <div class="dropdown">
+    <button class="dropbtn">North Indian
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="rajasthan.html">Rajasthan</a>
+      <a href="punjab.html">Punjab</a>
+      <a href="himachal pradesh.html">Himachal Pradesh</a>
+			<a href="uttarpradesh.html">Uttar Pradesh</a>
+      <a href="Haryana.html">Haryana</a>
+    </div>
+  </div>
+	<div class="dropdown">
+    <button class="dropbtn">South Indian
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="kerala.html">Kerala</a>
+      <a href="goa.html">Goa</a>
+      <a href="Tamil Nadu.html">Tamil Nadu</a>
+    </div>
+  </div>
+	<a href="sim (2).html">Log In</a>
+  <a href="Hotel Booking Form.html">Hotel Booking</a>
+  <a href="index.html">Feedback</a>
+</div>
+<br><br>
+<img class="cover" src="Tamil Nadu Cover Pic.png">
+<h4>Tamil Nadu</h4>
+<p>
+<strong>Tamil Nadu</strong> is one of the 29 <b>states of India</b>. Its capital and largest city is <b>Chennai</b> (formerly known as Madras). Tamil Nadu lies in the southernmost part of the <b>Indian Peninsula</b> and is bordered by the <b>union territory</b> of <b>Puducherry</b> and the <b>South Indian</b> states of <b>Kerala</b>, <b>Karnataka</b>, and <b>Andhra Pradesh</b>. It is bounded by the <b>Eastern Ghats</b> on the north, by the <b>Nilgiri</b>, the <b>Anamalai Hills</b>, and <b>Kerala</b> on the west, by the <b>Bay of Bengal</b> in the east, by the <b>Gulf of Mannar</b> and the <b>Palk Strait</b> on the southeast, and by the Indian Ocean on the south. The state shares a maritime border with the nation of <b>Sri Lanka</b>.
+</p>
+<!-- <br>
+<img id="special" src="line.png">
+<br> -->
+<h3>Geography</h3>
+<div class="geo">
+<img class="img" src="Tamil Nadu Map.png" style="float:right;">
+<p class="border">
+  <b>Tamil Nadu</b> is the eleventh largest state in <b>India</b> and covers an area of 130,058 square kilometres (50,216 sq mi). It is bordered by <b>Kerala</b> to the west, <b>Karnataka</b> to the northwest, <b>Andhra Pradesh</b> to the north, the <b>Bay of Bengal</b> to the east and the <b>Indian Ocean</b> to the south. <b>Cape Comorin (Kanyakumari)</b>, the southernmost tip of the <b>Indian Peninsula</b> which is the meeting point of the <b>Arabian Sea</b>, the Bay of Bengal, and the <b>Indian Ocean</b>.</p>
+</div>
+<h4>Famous Places To Visit</h4>
+<br>
+<h2>01. Chennai</h2>
+<div class="content">
+<div class="lower">
+  <img src="Chennai.png" style="float:left;"alt="">
+  <div class="upper" style="background: rgb(51, 102, 153, 0.71)">
+    <p>The Top Attractions in <b> Chennai </b> </p>
+    <ul>
+      <li>Marina Beach</li>
+      <li>Arignar Anna Zoological Beach</li>
+      <li>Brezzy Beach</li>
+      <li>Little Mount Shrine</li>
+      <li>Semmozhi Poonga</li>
+      <li>Pulicat Lake</li>
+      <li>National Art Gallery</li>
+      <li>The Huddleston Gardens Of Theosophical Society</li>
+      <li>Kapaleeswarar Temple</li>
+      <li>Connemara Public Library</li>
+    </ul>
+  </div>
+</div>
+<p>Formerly known by the name <b>Madras</b>, <b>Chennai</b> is the Capital City of Tamil Nadu. The city has been surrounded by the South Indian Kingdoms since ages, thus it has always been the forefront of all cultural, economical, social, commercial and industrial development in the south of India. Chennai is the short form of the actual name <b>Chennapatnam</b>. It’s often nicknamed as the Detroit of India, due to Chennai housing the majority of India’s Automobile industries. Not only industries, the city is famous for its distinctive culture and heritage as well and you might need to take around 2-3 days to properly explore this city alone.</p>
+</div>
+<br>
+<h2>02. Mahabalipuram</h2>
+<br>
+<div class="content">
+<div class="lower">
+  <img src="Mahabalipuram.png" style="float:left;"alt="">
+  <div class="upper" style="background: rgb(153, 153, 102, 0.71)">
+<p>The Top Attractions in <b> Mahabalipuram </b> <br></p>
+    <ul>
+      <li>Arjuna’s Penance</li>
+      <li>Thirukadalmallai</li>
+      <li>Cave Temples</li>
+      <li>Shore Temple</li>
+      <li>Pancha Rathas</li>
+    </ul>
+  </div>
+</div>
+<p>Also known as <b>Mamallapuram</b>, the city of <b>Mahabalipuram</b> is famous for its ancient and cultural heritage. The city of Mahabalipuram was a prominent seaport dating back to 7th century AD and was ruled by the Pallava Dynasty. The place is famous for its monuments and is classified among the UNESCO world heritage sites. Almost all of the monuments are carved out of Granite and display the brilliance of Dravidian style architecture. The town is otherwise a small one and the best way to get around it either by foot or bike rental. The attractions in the whole town can be covered in a day or two. The city is bustling with tourists most times of the year except monsoons.</p>
+</div>
+<br>
+<h2>03. Kanyakumari</h2>
+<br>
+<div class="content">
+<div class="lower">
+  <img src="Kanyakumari.png" style="float:left;"alt="">
+  <div class="upper" style="background: rgb(51, 102, 255, 0.71)">
+<p>The Top Attractions in <b> Kanyakumari </b></p>
+    <ul>
+      <li>Kanyakumari Temple</li>
+      <li>Vivekananda Rock Memorial</li>
+      <li>Suchindrum</li>
+      <li>Padmanabhapuram Palace</li>
+      <li>Thiruvalluvar Statue</li>
+    </ul>
+  </div>
+</div>
+<p>The southernmost tip of mainland India, <b>Kanyakumari</b> was formerly known by the name <b>Cape Comorin</b>. The ancient town of Kanyakumari was an important site during the Reign of the Chola, Chera and Pandya dynasty. The town is famous for its beautiful beaches, temples, monuments and cultural centers. The town is also famous for its distinctive culture and hospitable people. The place due to its unique location witnesses a marvel like only a few places in the world has seen i.e. the sunrise and the sunset can be viewed at the same beach.</p>
+</div>
+<br>
+<h2>04. Madurai</h2>
+<br>
+<div class="content">
+<div class="lower">
+  <img src="Madurai.png" style="float:left;"alt="">
+  <div class="upper" style="background: rgb(153, 204, 255, 0.71)">
+  <p>The Top Attractions in <b> Madurai </b></p>
+    <ul>
+      <li>Sree Meenakshi Amman Temple</li>
+      <li>Thiruparankundram Murugan Temple</li>
+      <li>Gandhi Museum</li>
+      <li>Samanar Hills</li>
+      <li>Koodal Azhagar Temple</li>
+      <li>Pazhamudhir Solai</li>
+      <li>Thirumalai Nayakkar Mahal</li>
+    </ul>
+  </div>
+</div>
+<p>The 3rd largest city in Tamil Nadu, <b>Madurai</b> is also one of the oldest inhabited cities in the world. The place has been mentioned by many such as Kautilya and Megasthenes. The city has been ruled by both the Pandya and the Chola dynasties. The city houses a number of important and magnificent temples that it is built around. Geographically the city of Madurai lies on the fertile plains near the river Vaigai which divides the city in two parts. The land is thus mainly used for agriculture and the major supplier for paddy crops such as rice in India. The majority of tourists who come to Madurai come to visit the various temples that enshrine this ancient city.</p><br><br><br><br>
+</div>
+<center><h3>Season To Visit</h3></center>
+<div >
+<p>
+  The <b>best season to visit Tamil Nadu</b> is the winter season, between November and February. Being the southernmost state in India, <b>Tamil Nadu</b> experiences tropical climate throughout the year. The state has three distinct weather patterns in a year: winter, summer, and monsoon. During the summer season, the daytime <b>temperature in Tamil Nadu</b> reaches up to 40 degree Celsius. The <b>best time to visit Tamil Nadu</b> depends on several factors such as humidity level, rainfall, local festivals, and current weather conditions. The <b>winter season in Tamil Nadu</b> is ideal for sightseeing.
+  Tamil Nadu is a popular travel destination in South India. Thousands of travellers visit this state to explore beaches, <b>temples</b>, hill stations, and national parks. Take a look at the season-wise guide below to figure out the <b>ideal time to visit Tamil Nadu</b> for a holiday</p>
+</div>
+</body>
+</html>
