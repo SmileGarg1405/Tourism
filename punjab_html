@@ -1,0 +1,170 @@
+<html>
+<head>
+<title>Punjab</title>
+<link rel="stylesheet" type="text/css" href="punjab.css">
+<link href="https://fonts.googleapis.com/css?family=Berkshire+Swash|Great+Vibes|Indie+Flower|Lobster" rel="stylesheet">
+</head>
+<body style="background-image:url('pattern.jpg')">
+  <div class="navbar">
+  <a href="Front Page.html">Home</a>
+  <div class="dropdown">
+    <button class="dropbtn">North Indian
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="rajasthan.html">Rajasthan</a>
+      <a href="punjab.html">Punjab</a>
+      <a href="himachal pradesh.html">Himachal Pradesh</a>
+			<a href="uttarpradesh.html">Uttar Pradesh</a>
+      <a href="Haryana.html">Haryana</a>
+    </div>
+  </div>
+	<div class="dropdown">
+    <button class="dropbtn">South Indian
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="kerala.html">Kerala</a>
+      <a href="goa.html">Goa</a>
+      <a href="Tamil Nadu.html">Tamil Nadu</a>
+    </div>
+  </div>
+	<a href="sim (2).html">Log In</a>
+  <a href="Hotel Booking Form.html">Hotel Booking</a>
+  <a href="index.html">Feedback</a>
+</div>
+<br><br>
+<img class="cover" src="Punjab Cover Pic.jpg">
+<h4>Punjab</h4>
+<p>
+ <strong>Punjab</strong>, famously referred to as <b> ‘The land of five rivers’ </b>, is situated in the north western part of India. This fertile land ranks amongst the most ancient civilizations in the world. <em>Punjab is also famous for its religious diversity </em>as it was here many religious movements were initiated.
+ <em>The scenic landscape, rich history and famous religious sites</em> are the most important reasons for increasing number of visits by tourists.
+</p>
+<!-- <br>
+<img id="special" src="line.png">
+<br> -->
+<h3>Geography</h3>
+<div class="geo">
+<img class="img" src="map of punjab.jpg" style="float:right;">
+<p class="border">
+  Punjab is a <b>state</b> in northern <b>India</b>. Forming part of the larger <b>Punjab</b> region, the state is bordered by the Indian states of <b>Jammu and Kashmir</b> to the north, <b>Himachal Pradesh</b> to the east, <b>Haryana</b> to the south and southeast, <b>Rajasthan</b> to the southwest, and the Pakistani province of <b>Punjab</b> to the west. The state covers an area of 50,362 square kilometres, 1.53% of India's total geographical area. It is the <b>20th-largest Indian state</b> by area. With 27,704,236 inhabitants at the 2011 census, Punjab is the <b>16th-largest state by population</b>, comprising 22 districts. <b>Punjabi</b> is the most widely spoken and official language of the state. The main ethnic group are the <b>Punjabis</b>, with Punjabi <b>Sikhs</b> (57.7%) forming the demographic majority, followed by <b>Hindus</b> (38.5%). The state capital is <b>Chandigarh</b>, a <b>Union Territory</b> and also the capital of the neighboring state of Haryana. The five rivers from which the region took its name were <b>Sutlej, Ravi, Beas, Chenab and Jhelum</b>; Sutlej, Ravi and Beas are part of the Indian Punjab.
+</p>
+</div>
+<h4>Famous Places To Visit</h4>
+<br>
+<h2>01. Amritsar</h2>
+<div class="content">
+<div class="lower">
+  <img src="Amritsar.png" style="float:left;"alt="">
+  <div class="upper" style="background: rgba(255, 129, 33, 0.71)">
+    <p>The Top Attractions in <b> Amritsar </b> </p>
+    <ul>
+      <li>Golden Temple</li>
+      <li>Jallianwala Bagh</li>
+      <li>Akal Takht</li>
+      <li>Tara Taran Sahib</li>
+      <li>Maharaja Ranjit Singh Panorama</li>
+      <li>Wagah Border</li>
+      <li>Maharaja Ranjit Singh Museum</li>
+      <li>Rambagh Garden</li>
+      <li>Summer Palace of Maharaja Ranjit Singh</li>
+      <li>Harike Wetland and Bird Sanctuary</li>
+      <li>Khalsa College</li>
+      <li>Durgiana Temple</li>
+      <li>Bathinda Fort</li>
+      <li>Kaiser Bagh Park</li>
+    </ul>
+  </div>
+</div>
+<p><b>Amritsar</b>, is a city in north-western <b>India</b> which is the administrative headquarters of the <b>Amritsar district</b> - located in the <b>Majha</b> region of the Indian state of Punjab.
+  <br>Amritsar is home to the <b>Harmandir Sahib</b> (commonly known as the Golden Temple), the spiritual and cultural centre for the Sikh religion. This important Sikh shrine attracts more visitors than the <b>Taj Mahal</b> with more than 100,000 visitors on weekdays alone and is the most popular destination for <b>non-resident Indians</b> (NRI) in the whole of India. The city also houses the <b>Akal Takht Sahib</b>,
+  the highest seat of earthly authority of the <b>Khalsa</b>, and the <b>committee</b> responsible for the upkeep of Gurdwaras.</p>
+</div>
+<br>
+<h2>02. Chandigarh</h2>
+<br>
+<div class="content">
+<div class="lower">
+  <img src="Chandigarh.png" style="float:left;"alt="">
+  <div class="upper" style="background: rgba(153, 153, 102, 0.71)">
+<p>The Top Attractions in <b> Chandigarh </b> <br></p>
+    <ul>
+      <li>The Rock Garden</li>
+      <li>Sukhna Lake</li>
+      <li>Leisure Valley</li>
+      <li>Shanti Kunj</li>
+      <li>Morni Hills</li>
+      <li>Chhatbir Zoo</li>
+      <li>Rose Garden</li>
+      <li>Le Corbusier Centre</li>
+      <li>Government Museum and Art Gallery</li>
+      <li>Sarkaria Cactus Garden</li>
+      <li>Timber Trail</li>
+      <li>Butterfly Park</li>
+      <li>Yadvinder Garden</li>
+      <li>Garden of Fragrance</li>
+    </ul>
+  </div>
+</div>
+<p><b>Chandigarh</b> is a city and a <b>union territory</b> in <b>India</b> that serves as the capital of the two neighboring states of <b>Haryana</b> and <b>Punjab</b>. The city is unique in that it is not a part of either of the two states but is governed directly by the <b>Union Government</b>, which administers all such territories in the country.
+<br>Chandigarh is bordered by the state of Punjab to the north, the west and the south, and to the state of Haryana to the east. It is considered to be a part of the <b>Chandigarh capital region</b> or Greater Chandigarh, which includes Chandigarh, and the city of <b>Panchkula</b> (in Haryana) and cities of <b>Kharar, Kurali, Mohali, Zirakpur</b> (in Punjab).</p>
+</div>
+<br>
+<h2>03. Jalandhar</h2>
+<br>
+<div class="content">
+<div class="lower">
+  <img src="Jalandhar.png" style="float:left;"alt="">
+  <div class="upper" style="background: rgba(198, 205, 214, 0.71)">
+<p>The Top Attractions in <b> Jalandhar </b></p>
+    <ul>
+      <li>Imam Nasir Masjid</li>
+      <li>Tulsi Mandir</li>
+      <li>Shaheed-E-Azam Sardar Bhagat Singh Museum</li>
+      <li>Wonderland Theme Park</li>
+      <li>Devi Talab Mandir</li>
+      <li>Shiv Mandir</li>
+      <li>St. Mary’s Cathedral Church</li>
+      <li>Pushpa Gujral Science City</li>
+      <li>Company Bagh</li>
+      <li>Niku Park</li>
+      <li>Rangla Punjab Haveli</li>
+      <li>Prithvi’s Planet</li>
+      <li>Sheetla Mandir</li>
+    </ul>
+  </div>
+</div>
+<p><b>Jalandhar</b>, formerly known as Jullundur in <b>British India</b>, is a city in the <b>Doaba</b> region of the northwestern Indian state of Punjab. Jalandhar is the oldest inhabited major city in the Indian state of Punjab. In recent times the city has undergone rapid urbanisation and has developed into a highly industrialised centre of commerce.
+<br>Jalandhar has been shortlisted for the second phase of the <b>"Smart City"</b> initiative of the Indian Government.
+<br>Jalandhar is alongside the <b>Grand Trunk Road</b> and is a well-connected rail and road junction. Jalandhar is 144 km northwest of Chandigarh, the state capital of <b>Punjab</b> and <b>Haryana</b>.</p>
+</div>
+<br>
+<h2>04. Ludhiana</h2>
+<br>
+<div class="content">
+<div class="lower">
+  <img src="Ludhiana.png" style="float:left;"alt="">
+  <div class="upper" style="background: rgba(191, 144, 61, 0.71)">
+  <p>The Top Attractions in <b> Ludhiana </b></p>
+    <ul>
+      <li>Lodhi Fort</li>
+      <li>Rural Heritage Museum</li>
+      <li>Tiger Zoo</li>
+      <li>Punjab Agricultural University Museum</li>
+      <li>Gurudwara Charan Kamal</li>
+      <li>Maharaja Ranjit Singh War Museum</li>
+      <li>Phillaur Fort</li>
+      <li>Nehru Rose Garden</li>
+      <li>Deer Park</li>
+    </ul>
+  </div>
+</div>
+<p><b>Ludhiana</b> is a city and a <b>municipal corporation</b> in <b>Ludhiana district</b> in the Indian state of <b>Punjab</b>, and India's largest city north of <b>Delhi</b>, with an area of 310sq. km and an estimated population of 1,618,879 as of the <b>2011 census</b>. The population increases substantially during the harvesting season due to the migration of labourers from highly populated states like <b>Uttar Pradesh</b>, <b>Bihar</b>, <b>West Bengal</b> and <b>Odisha</b>. The city stands on the <b>Sutlej River's</b> old bank, 13 kilometres (8.1 mi) south of its present course. It is an industrial centre of northern India; the BBC has called it <b>India's Manchester</b>.</p>
+</div>
+<center><h3>Season To Visit</h3></center>
+<div >
+<p>The best time to visit Punjab is from October to the end of March. October marks the beginning of the winter season. It is, in fact, the post monsoon period, which lasts till November. From December onwards, the winter becomes chilly. In the month of January, there is extreme cold, with the temperature going down below 12oC in the morning and to as less as 0oC at night.
+The weather in Punjab is very soothing and pleasant from October to March. You can enjoy the best of the place in a cozy manner during this season. This is the perfect time for holidaying, as there is neither the tiring heat, nor the drenching rain. Besides, most of the major festivals of Punjab, like Lohri, Holla Mohalla, Diwali, and Dussehra, fall during this period. So you can enjoy being a part of the local celebrations if you plan your trip during this time.</p>
+</div>
+</body>
+</html>
