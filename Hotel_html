@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hotel Booking Form</title>
+<link rel="stylesheet" type="text/css" href="Booking.css">
+</head>
+<body>
+
+<div class="style">
+  <img class="icon" src="booking icon.png" alt="">
+    <form class="" action="index.html" method="post">
+      <div class="personal">
+          <form action="destination.html">
+          <h3>Personal Details: </h3>
+          <label for="name">Username:<br> <input type="text" name="username" id="name"placeholder="username" maxlength="10"><br>
+          <label for="email">Email:<br> <input type="text" name="email" id="email"placeholder="email" maxlength="30"><br>
+          <label for="phone">Phone:<br> <input type="tel" name="phone" id="phone"placeholder="phone" maxlength="10"><br>
+          <label for="state"> State:<br> <select name="State"required>
+          <option value=""> </option>
+          <option value="Kerala">Kerala</option>
+          <option value="Rajasthan">Rajasthan</option>
+          <option value="Goa">Goa</option>
+          <option value="Punjab">Punjab</option>
+          <option value="Himachal Pradesh">Himachal Pradesh</option>
+          <option value="Uttar Pradesh">Uttar Pradesh</option>
+          <option value="Haryana">Haryana</option>
+          <option value="Tamil Nadu">Tamil Nadu</option>
+          </select>
+          </form>
+      </div>
+
+        <form class="booking" action="destination.html">
+        <h3>Booking Details: </h3>
+        <label for"date">Booking Date: <br> </label><input id= "date" type="date" name="date" min="2018-01-01"><br>
+        <label for"numberofguests">Number Of Guests: <br> </label><input id="numberofguests" type="number" name="numberofguests" min="1" max="6">
+        <p>Do you require meals?</p>
+        <label for="yesmeals">Yes: </label><input id="yesmeals" type="radio" name="meals" value="yesmeals">
+        <label for="nomeals">No: </label><input id="nomeals" type="radio" name="meals" value="nomeals">
+        </form>
+        <form class="tour" action="index.html" method="post">
+          <h3>Tour Details : </h3>
+          <label for="Transport"> Mode Of Transport: <br> <select name="Transport"required>
+          <option value=""> </option>
+          <option value="By Air">Air Travels</option>
+          <option value="By Train">Train</option>
+          <option value="By Bus">Bus</option>
+          </select>
+          <br>
+          <br>
+          <label for="Hotels"> Hotel: <br> <select name="Hotel"required>
+          <option value=""> </option>
+          <option value="5">5 Star</option>
+          <option value="4">4 Star</option>
+          <option value="3">3 Star</option>
+          <option value="2">2 Star</option>
+          </select>
+          <br><br>
+          <label for="days"> No of days: <br> <select name="days"required>
+          <option value=""> </option>
+          <option value="5d 6n">5 Days & 6 Night</option>
+          <option value="4d 5n">4 Days & 5 Night</option>
+          <option value="3d 4n">3 Days & 4 Night</option>
+          <option value="2d 3n">2 Days & 3 Night</option>
+          </select>
+        </form>
+      <input class="submit" type="image" src="submit.PNG" alt="Submit">
+    </form>
+</div>
+</body>
+</html>
