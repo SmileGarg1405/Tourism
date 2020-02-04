@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> sign up form</title>
+<style>
+body{
+background:url(thumb-1920-85305.jpg);
+background-size:cover;
+}
+.sign_up{
+  border-radius: 10px;
+  background: black;
+  padding: 20px;
+  width: 420px;
+  margin: auto;
+  color:#fff;
+  font-size: 10px;
+  font-family: Verdana;
+  margin-top: 100px;
+  opacity: 0.5;
+}
+.sign up h1{
+text-align: center;
+margin-left: 5px;
+padding: 0;
+
+}
+.sign_up input, select{
+  padding: 10px 20px;
+  margin-left: 8px 0;
+  border-radius: 4px;
+  border-sizing: border-box;
+  font-size: 18px;
+  background: black;
+  color: white;
+  opacity: 1;
+}
+.sign_up input[type=submit]{
+  width: 100%;
+  border: none;
+  cursor: pointer;
+}
+#fname{
+  width: 30%;
+}
+#lname{
+  width: 30%;
+}
+#email{
+  width:71.5%;
+}
+#password{
+  width:49.5%;
+}
+#re_password{
+  width:49%
+}
+input[type=submit]:hover{
+  background: green;
+  transition: 0.6s;
+}
+
+    input
+    {
+        margin:5px;
+    }
+
+    label[for="male"],label[for="female"]
+    {
+        font-size: 15px;
+        width:400px;
+        line-height: 30px;
+
+    }
+    input:checked+label[for="male"],input:checked+label[for="female"]{
+       font-family: monospace;
+        font-size: 20px;
+
+    }
+    input::placeholder{color:#fff;}
+</style>
+</head>
+<body>
+<div class="sign_up">
+<form name="simrat">
+  <h1>sign up free here</h1>
+  <hr>
+  <input type="text" name="fname" id ="fname" placeholder ="First name"maxlength="10">
+  <input type="text" name="lname" id ="lname" placeholder ="Last name"maxlength="10" >
+  <input type="text" name="email" id ="email" placeholder ="Email or phone number" >
+  <input type="password" name="password" id ="password" placeholder ="Password required"maxlength="10" >
+  <input type="password" name="re_password" id ="re_password" placeholder ="Re_type password"maxlength="10" >
+  <div class="Date of birth">
+    <span style="font-size: 18px";> Date of birth</span><br>
+    <input type="date">    <br>
+    <input type ="radio"  id="male" name="gender" value ="male">
+      <label for="male">MALE</label>
+    <input type ="radio" id="female" name="gender" value ="female">
+      <label for="female">FEMALE</label>
+    <input type ="submit" value ="Create aN Account">
+    <input type ="checkbox">I Accept Terms and Conditions
+  </div>
+</form>
+    </div>
+
+
+    <script>
+    var form=document.getElementsByTagName("input");
+      var sim=document.forms.simrat;
+
+sim.onsubmit=function validate()
+{  var check=0;
+    for(var i=0;i<5;i++)
+    {   if( form[i].value=="")
+       { form[i].setAttribute("placeholder","*Required");
+         check++;
+       }
+    }
+ if(check!=0)
+ return false;
+ else  if(document.getElementById("password").value!=document.getElementById("re_password").value)
+     alert("hey "+form[0].value+" password mismatch");
+
+     return true;
+};
+    </script>
+</body>
+</html>
