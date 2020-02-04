@@ -1,0 +1,132 @@
+<html>
+<head>
+<title>Himachal Pradesh</title>
+<link rel="stylesheet" type="text/css" href="Himachal Pradesh.css">
+<link href="https://fonts.googleapis.com/css?family=Berkshire+Swash|Great+Vibes|Indie+Flower|Lobster" rel="stylesheet">
+</head>
+<body style="background-image:url('pattern.jpg')">
+  <div class="navbar">
+  <a href="Front Page.html">Home</a>
+  <div class="dropdown">
+    <button class="dropbtn">North Indian
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="rajasthan.html">Rajasthan</a>
+      <a href="punjab.html">Punjab</a>
+      <a href="Himachal Pradesh.html">Himachal Pradesh</a>
+			<a href="uttarpradesh.html">Uttar Pradesh</a>
+      <a href="Haryana.html">Haryana</a>
+    </div>
+  </div>
+	<div class="dropdown">
+    <button class="dropbtn">South Indian
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="kerala.html">Kerala</a>
+      <a href="goa.html">Goa</a>
+      <a href="Tamil Nadu.html">Tamil Nadu</a>
+    </div>
+  </div>
+  <a href="sim (2).html">Log In</a>
+  <a href="Hotel Booking Form.html"> Hotel Booking</a>
+  <a href="index.html">Feedback</a>
+</div>
+<br><br>
+<img class="cover" src="Himachal Pradesh Cover Photo.jpg">
+<h4>Himachal Pradesh</h4>
+<p>
+  Himachal Pradesh is a state of India located in North India. Situated in the Western Himalayas, it is bordered by states of Jammu and Kashmir on the north, Punjab on the west, Haryana on the southwest, Uttarakhand on the southeast, and the Tibet Autonomous Region on the east. At its southernmost point, it also touches the state of Uttar Pradesh. The state's name was coined from the Sanskrit—Him means 'snow' and achal means 'land' or 'abode'—by acharya Diwakar Datt Sharma, one of the state's eminent Sanskrit scholars.
+
+  Himachal Pradesh is known for its natural environment, hill stations, and temples. Himachal Pradesh had one of the highest per-capita incomes among Indian states and union territories for the year 2014-15. Many perennial rivers flow in the state. Numerous plants produce surplus hydroelectricity that is sold to other states, such as Delhi, Punjab, and Rajasthan. Tourism and agriculture are also important constituents of the state's economy.
+</p>
+<h3>Geography</h3>
+<img class="img" src="map of himachal pradesh.jpg" style="float:right;">
+<p class="border">
+Himachal is in the western <b>Himalayas</b>. Covering an area of 55,673 square kilometres (21,495 sq mi), it is a mountainous state. Most of the state lies on the foothills of the <b>Dhauladhar</b> Range. At 7,025 m Shilla is the highest mountain peak in the state of Himachal Pradesh.
+<br><br>
+Due to extreme variation in elevation, great variation occurs in the climatic conditions of Himachal . The climate varies from hot and subhumid tropical in the southern tracts to, with more elevation, cold, alpine, and glacial in the northern and eastern mountain ranges. The state's winter capital, <b>Dharamsala</b> receives very heavy rainfall, while areas like <b>Lahaul and Spiti</b> are cold and almost rainless. Broadly, Himachal experiences three seasons: summer, winter, and rainy season. Summer lasts from mid-April till the end of June and most parts become very hot (except in the alpine zone which experiences a mild summer) with the average temperature ranging from 28 to 32 °C (82 to 90 °F). Winter lasts from late November till mid March. <b>Snowfall</b> is common in alpine tracts (generally above 2,200 metres (7,218 ft) i.e. in the higher and trans-Himalayan region).
+</p>
+<h4>Famous Places To Visit</h4>
+<br>
+<h2>01. Kullu</h2>
+<div class="content">
+<div class="lower">
+  <img src="Himachal Pradesh.jpg" style="float:left;"alt="">
+  <div class="upper">
+    <ul>
+      <li><b>Famous for:</b>Great Himalayan Ranges, Nature, Hill station, Temples.</li><br>
+      <li><b>Major Attractions:</b> Bijli Mahadev Temple, Raghunath Temple.</li><br>
+      <li><b>Nearby Places:</b> Manali, Kasol, Manikaran.</li><br>
+      <li><b>Ideal Visit Time:</b> 1-2 days.</li>
+    </ul>
+  </div>
+</div>
+<p>
+<b>Kullu</b> in Himachal Pradesh is one of the most frequented tourist destinations. Often heard along with the name Manali, yet another famous tourist spot, Kullu is situated on the banks of Beas River. It was earlier called as Kulanthpitha, meaning ‘The end of the habitable world’. Awe-inspiring, right? Kullu valley is also known as the ‘<b>Valley of Gods</b>’.
+</p>
+</div>
+<br>
+<h2>02. Manali</h2>
+<br>
+<div class="content">
+<div class="lower">
+  <img src="Manali.jpg" style="float:left;"alt="">
+  <div class="upper" style="background: rgba(74, 123, 129, 0.71)">
+    <ul>
+      <li><b>Famous for:</b> Great Himalayan Ranges, Nature, Hill station, Adventure sports.</li><br>
+      <li><b>Major Attractions:</b> Hidimba Devi Temple, Rohtang Pass, Solang Valley.</li><br>
+      <li><b>Nearby Places:</b> Kullu, Lahaul and Spiti Valley.</li><br>
+      <li><b>Ideal Visit Time:</b> 2 days.</li>
+    </ul>
+  </div>
+</div>
+<p>Located at an altitude of <b>6726 feet</b>, <b>Manali</b> offers splendid views of the snow-capped mountains. The land is not just a feast to your visual senses; it also offers you the chance to ascertain your fitness level with the sporting facilities here. Given below are some top destinations in Manali for you to enjoy and bring out the adventurer in you.</p>
+</div>
+<br>
+<h2>03. Shimla</h2>
+<br>
+<div class="content">
+<div class="lower">
+  <img src="Shimla.jpg" style="float:left;"alt="">
+  <div class="upper" style="background: rgba(131, 163, 201, 0.71)">
+    <ul>
+      <li><b>Famous for:</b> Hill station, Viewpoints, British colonial architecture.</li><br>
+      <li><b>Major Attractions:</b> The Ridge, Mall Road, Jakhoo Hill.</li><br>
+      <li><b>Nearby Places:</b> Kasauli, Parwanoo, Chail, Kufri.</li><br>
+      <li><b>Ideal Visit Time:</b> 2 days.</li>
+    </ul>
+  </div>
+</div>
+<p>
+The enchanting beauty of <b>Shimla</b> made British declare the land as their summer capital. The colonial influence is still evident in the city. The hill station offers spectacular views of the snow-capped Himalayan ranges. With lakes and rich greenery around, Shimla welcomes tourists round the year, of course, if you don’t mind the ‘below zero’ temperature in winter. Here are the leading destinations in Simla.
+</p>
+</div>
+<br>
+<h2>04. Dharamshala</h2>
+<br>
+<div class="content">
+<div class="lower">
+  <img src="Dharamshala.jpg" style="float:left;"alt="">
+  <div class="upper" style="background: rgba(118, 173, 7, 0.71)">
+    <ul>
+      <li><b>Famous for:</b> Tibetan culture, Monasteries, Nature.</li><br>
+      <li><b>Major Attractions:</b>Tsuglagkhang Complex, Namgyal Monastery.</li><br>
+      <li><b>Nearby Places:</b> Mcleodganj, Kangra.</li><br>
+      <li><b>Ideal Visit Time:</b> 1 days.</li>
+    </ul>
+  </div>
+</div>
+<p>
+<b>Dharamshala</b> has snow-clad mountains on three sides and valley on one side. The mountains being over 4000 m height, you can have an excellent view of them from every viewpoint. Pine trees and tree gardens along with snow covered mountains render magic to the air. It is also heavily occupied Tibetans refugees who have left an imprint of their culture here. It is visited by tourists from all over the world to get a glimpse of Tibet and support the refugees.
+</p>
+</div>
+<center><h3>Season To Visit</h3></center>
+<div >
+<p>
+Most of the tour and travel enthusiasts who have a deep desire to explore natural beauty and lofty, yet snow-covered mountain ranges and lush green valley are still confused and look for the right source to find the details about the best time to visit Himachal. If you are also one of those who want to collect information about the vest time to visit Himachal or best time to visit Shimla, Kullu & Manali, etc.
+</p>
+</div>
+</body>
+</html>
