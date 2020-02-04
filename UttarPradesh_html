@@ -1,0 +1,131 @@
+<html>
+<head>
+<title>Uttar Pradesh</title>
+<link rel="stylesheet" type="text/css" href="Uttar Pradesh.css">
+<link href="https://fonts.googleapis.com/css?family=Berkshire+Swash|Great+Vibes|Indie+Flower|Lobster" rel="stylesheet">
+</head>
+<body style="background-image:url('pattern.jpg')">
+  <div class="navbar">
+  <a href="Front Page.html">Home</a>
+  <div class="dropdown">
+    <button class="dropbtn">North Indian
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="rajasthan.html">Rajasthan</a>
+      <a href="punjab.html">Punjab</a>
+      <a href="Himachal Pradesh.html">Himachal Pradesh</a>
+      <a href="uttarpradesh.html">Uttar Pradesh</a>
+      <a href="Haryana.html">Haryana</a>
+    </div>
+  </div>
+  <div class="dropdown">
+    <button class="dropbtn">South Indian
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="kerala.html">Kerala</a>
+      <a href="goa.html">Goa</a>
+      <a href="Tamil Nadu.html">Tamil Nadu</a>
+    </div>
+  </div>
+  <a href="sim (2).html">Log In</a>
+  <a href="Hotel Booking Form.html">Hotel Booking</a>
+  <a href="index.html">Feedback</a>
+</div>
+<br><br>
+<img class="cover" src="Uttar Pradesh Cover Photo.jpg">
+<h4>Uttar Pradesh</h4>
+<p>Uttar Pradesh is not only the most populated but is also the fourth largest state of the country.  This northern state got its current name in 1950 after India won independence. Its rich culture, vibrant atmosphere, different heritage sites and religious places of worship make it an important and famous tourist destination.</p>
+<!-- <br>
+<img id="special" src="line.png">
+<br> -->
+<h3>Geography</h3>
+<div class="geo">
+  <img src="map of uttar pradesh.jpg" style="float:right;">
+  <p class="border">
+    Uttar Pradesh, with a total area of 243,290 square kilometres (93,935 sq mi), is India’s fourth-largest state in terms of land area and is roughly of same size as United Kingdom. It is situated on the northern spout of India and shares an international boundary with Nepal. The Himalayas border the state on the north,[56] but the plains that cover most of the state are distinctly different from those high mountains.[57] The larger Gangetic Plain region is in the north; it includes the Ganges-Yamuna Doab, the Ghaghra plains, the Ganges plains and the Terai.[58] The smaller Vindhya Range and plateau region is in the south.It is characterised by hard rock strata and a varied topography of hills, plains, valleys and plateaus.
+  </p>
+</div>
+<h4>Famous Places To Visit</h4>
+<br>
+<h2>01. Gorakhpur</h2>
+<div class="content">
+<div class="lower">
+  <img src="gorakhnath-temple.jpg" style="float:left;"alt="">
+  <div class="upper">
+    <p>The Top Destination in <b>Gorakhpur</b> </p>
+    <ul>
+      <li><b>Famous for:</b> Temple, Museum, Press, Parks.</li><br>
+      <li><b>Major Attractions:</b> Gorakhnath temple, Railway museum, Gita press.</li><br>
+      <li><b>Nearby Places:</b> Kushinagar, Kapilavastu.</li><br>
+      <li><b>Ideal Visit Time:</b> 2 days or more.</li>
+    </ul>
+  </div>
+</div>
+<p><b>Gorakhpur</b> is a city in the north eastern side of the state, alongside the River Rapti. This is the home of the Saint Gorakhshanath, a renowned religious leader, which gave the city its name. It is a famous tourist destination for family holidays.</p>
+</div>
+<br>
+<h2>02. Mirzapur </h2>
+<br>
+<div class="content">
+<div class="lower">
+  <img src="1200px-Mirzapur_from_the_Ganges.jpg" style="float:left;"alt="">
+  <div class="upper" style="background: rgba(38, 168, 255, 0.71)">
+<p>The Top Destination in <b>Mirzapur</b> <br></p>
+    <ul>
+      <li><b>Famous for:</b> Temples, waterfalls, Forts.</li><br>
+      <li><b>Major Attractions:</b> vindhyavasini Devi Temple, Wyndham Falls,Chunar Fort.</li><br>
+      <li><b>Nearby Places:</b> Lakhaniya Dari, Ashtabhuj.</li><br>
+      <li><b>Ideal Visit Time:</b> 2-3 days.</li>
+    </ul>
+  </div>
+</div>
+<p>Stationed roughly 650 kilometers from the state’s capital, in Uttar Pradesh, the city is a blend of fine work in carpet making, mud and clay pots and toys and brassware with attractive serene views for the tourists. Besides being surrounded by several hills, it even headquarters the <b>Mirzapur</b> district. It is also prominent for the holy shrine Vindhyachal, Ashtbhuja and Kali Khoh and is also known for Devrahwa Baba Ashram. <b>Mirzapur</b> is also flaunted many natural spots and waterfalls.</p>
+</div>
+<br>
+<h2>03. Bareilly</h2>
+<br>
+<div class="content">
+<div class="lower">
+  <img src="-72517_8194.jpg" style="float:left;"alt="">
+  <div class="upper" style="background: rgba(221, 108, 22, 0.71)">
+<p>The Top Destination in <b>Bareilly</b></p>
+    <ul>
+      <li><b>Famous for:</b> Temples.</li><br>
+      <li><b>Major Attractions:</b> Jagannath Temple, Alakhnath Temple, Dargah-e-ala Hazrat.</li><br>
+      <li><b>Nearby Places:</b> Kausani, Bhimtal.</li><br>
+      <li><b>Ideal Visit Time:</b> 2-3 days.</li>
+    </ul>
+  </div>
+</div>
+<p>Like everything UP, even the small town of <b>Bareilly</b> spells chaos. The chaos that is beckoning you to be a part of it. The town is locally NathGarh or the town of Shiva because of the many temples that are associated with the deity. The town is also said to be the birthplace of the mythical figure Draupadi. There are many fables and fantasies knitted around this small town. Bareilly can be understood as a place of Hindu-Muslim devotion. The many places of piety beckon the devotee in one. A visit to these places makes us reflect on the age-old teachings of these religions and make us want to emulate the same.</p>
+</div>
+<br>
+<h2>04. Vrindavan</h2>
+<br>
+<div class="content">
+<div class="lower">
+  <img src="vrindavan.jpg" style="float:left;"alt="">
+  <div class="upper" style="background: rgba(255, 129, 33, 0.71)">
+  <p>These are the top tourist attraction in <b>Vrindavan</b></p>
+    <ul>
+      <li><b>Famous for:</b> Temples</li><br>
+      <li><b>Major Attractions:</b> Govind Dev Temple, Prem Mandir, Banke Bihari Temple.</li><br>
+      <li><b>Nearby Places:</b> Katyayani Shakti Peeth.</li><br>
+      <li><b>Ideal Visit Time:</b> 2-3 days.</li>
+    </ul>
+  </div>
+</div>
+<p><b>Vrindavan</b> is an ancient city, just a few kilometres away from Mathura. <b>Vrindivan</b> has been an important Hindu pilgrimage site since time immemorial. It is believed that Lord Krishna spent his early days in this amazing and beautiful city</p>
+</div>
+<div >
+<p>It is best to visit Uttar Pradesh between Octobers to March inspite of the fact that the major cities remain crowded by the tourists all the year round. The summers are simply torrid and you could be the victim of the heat or sun stroke which is known as Loo in the local language. The Best Time to Visit Uttar Pradesh will also depend on the fairs and festivals that take place in the months from October to March.
+</p>
+</div>
+<center><h3>Season To Visit</h3></center>
+<div >
+<p>The summers in Rajasthan are hot and humid with the average temperatures rising up to as high as 45 degrees Celsius at times. This phenomenal rise of the mercury, which takes place between the months of April to June sees the golden sands of the Thar Desert glistening under the scorching rays of the mid day sun.</p>
+</div>
+</body>
+</html>
